@@ -1,0 +1,23 @@
+{
+  "name": "node-3-lesson",
+  "version": "1.0.0",
+  "description": "node third lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew299792458/Node-3-lesson.git"
+  },
+  "author": "Mr.Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrew299792458/Node-3-lesson/issues"
+  },
+  "homepage": "https://github.com/Andrew299792458/Node-3-lesson#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
